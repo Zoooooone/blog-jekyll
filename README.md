@@ -1,7 +1,9 @@
 # My Blog 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/zoooooone/zoooooone.github.io?label=activity"> &ensp; <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zoooooone/Zoooooone.github.io/main"> &ensp; <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zoooooone/zoooooone.github.io"> &ensp; <img alt="GitHub issues" src="https://img.shields.io/github/issues/zoooooone/zoooooone.github.io"> &ensp; <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/zoooooone/zoooooone.github.io/github-pages">
+<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zoooooone/blog-jekyll/main"> &ensp; <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zoooooone/blog-jekyll"> &ensp; <img alt="GitHub issues" src="https://img.shields.io/github/issues/zoooooone/blog-jekyll">
 
-This is my customized blog based on the **[Chirpy jekyll theme](https://github.com/cotes2020/jekyll-theme-chirpy)**. Here is the link to **[my blog](https://zoooooone.github.io/)**.
+> **Archived.** This repository is the Jekyll (Chirpy) version of my blog and is no longer updated. The blog now lives at **[zoooooone.github.io](https://zoooooone.github.io/)** (source: **[Zoooooone/Zoooooone.github.io](https://github.com/Zoooooone/Zoooooone.github.io)**). A read-only copy of this version is kept at **[zone-blog-archive](https://zone-blog-archive.opitz4546.workers.dev/)**.
+
+This is my customized blog based on the **[Chirpy jekyll theme](https://github.com/cotes2020/jekyll-theme-chirpy)**.
 
 # Purpose
 To record study notes and daily life, and to enjoy the process of starting a blog as a beginner.
@@ -32,7 +34,7 @@ To record study notes and daily life, and to enjoy the process of starting a blo
 - Added animations to the blog pages.
 - Added the gallery functionality using **[lightGallery](https://github.com/sachinchoolur/lightGallery)**.
 
-**More details are available [here](https://zoooooone.github.io/changelog/)**.
+**More details are available [here](https://zone-blog-archive.opitz4546.workers.dev/changelog/)**.
 
 ## Future works
 
