@@ -56,7 +56,7 @@ google_analytics:
   id: # fill in your Google Analytics ID
 
 umami:
-  enabled: true # set to true to enable
+  enabled: false # set to true to enable
   server_url: https://umami-zone-little-dew-6550.fly.dev # e.g., 'https://your-umami.vercel.app'
   website_id: d2f559d1-ce75-4643-9eb2-6376f30aba7d # your website id from Umami dashboard
 
